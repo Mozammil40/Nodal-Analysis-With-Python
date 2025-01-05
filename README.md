@@ -1,1 +1,1 @@
-# Nodal-Analysis-With-Python
+Developed a program that processes essential well data to determine the optimal bottom hole pressure and flow rate for well operation. 2. The program also generates visualizations of IPR and TPR curves, with their intersection indicating the well's operating point.
